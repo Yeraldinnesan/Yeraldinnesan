@@ -1,7 +1,24 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" height="200" width="200">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Node-%23282C34?style=flat-square&logo=node.js" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Postgres-%23282C34?style=flat-square&logo=postgresql" height="50" width="50">
+  </div>
+  <p align="center">
+    <img src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" height="200" width="200">
+  </p>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Mongoose-%23282C34?style=flat-square&logo=mongoose" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Bootstrap-%23282C34?style=flat-square&logo=bootstrap" height="50" width="50">
+    <img src="https://img.shields.io/badge/-Sass-%23282C34?style=flat-square&logo=sass" height="50" width="50">
+  </div>
+</div>
 
 # About Me
 
@@ -16,44 +33,7 @@ I am a full Stack Web developer with expertise in both front-end and back-end te
 My tech stack includes the following technologies:
 
   
-- React 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="100" width="100">
-  
-- TypeScript 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/TypeScript_Logo.png" height="100" width="100">
-  
-- JavaScript 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100" width="100">
-  
-- Redux 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Redux.png" height="100" width="100">
-  
-- Next.Js 
-  <img src="https://seeklogo.com/images/N/next-js-logo-7929C61A0D-seeklogo.com.png" height="100" width="100">
-  
-- Node 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="100" width="100">
-  
-- Express 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="100" width="100">
-  
-- Postgres 
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Postgresql_elephant.svg" height="100" width="100">
-  
-- MongoDB 
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="100" width="100">
-  
-- Mongoose 
-  <img src="https://camo.githubusercontent.com/fc61dcbdb7a5ebea3b9dc1b3f520f2dd1f098a03/68747470733a2f2f6d6f6e676f7365642e6769746875622e696f2f72656163742f696d616765732f6d6f6e676f7365642d6c6f676f2e737667" height="100" width="100">
-  
-- Angular 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="100" width="100">
-  
-- Bootstrap 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="100" width="100">
-  
-- Sass 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="100" width="100">
+
 
 <!--
 **Yeraldinnesan/Yeraldinnesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
