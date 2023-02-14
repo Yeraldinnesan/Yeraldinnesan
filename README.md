@@ -1,61 +1,86 @@
 
-<div style="background-color: #282C34; text-align: center; padding: 50px 0;">
-  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" alt="Banner Image">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="400" height="200">
 </div>
 
 <h1 align="center">Hi, I'm Yeraldinne 👋</h1>
 
-# About Me
-
 I am a full Stack Web developer with expertise in both front-end and back-end technologies. I am dedicated to constantly learning and expanding my skill set, and I am always eager to embrace new technologies and take on new challenges. My strong teamwork skills and proactive approach to professional development make me a valuable asset to any development team.
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 .
+:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 
+
+# 💫 Qualities
+
+- 🔍 Problem-solving skills: Analyze complex problems and develop creative solutions.
+- 💬 Communication skills: Good verbal and written communication skills to effectively communicate with clients and team members.
+- 💡 Adaptability: Quick to learn new technologies and techniques and willing to continuously improve their skills.
+- 🔍 Attention to detail: Ability to catch and fix errors and ensure the website's functionality and appearance are top-notch.
+- 🤝 Team player: Ability to work well in a team environment, contributing ideas and collaborating with others.
+- ⏰ Time management: Ability to prioritize tasks, manage time effectively, and meet deadlines.
+- 🎨 Creativity: Ability to bring a unique and innovative perspective to projects.
+- 💻 Customer-focused: Ability to understand the needs and goals of the client and create solutions that meet those needs.
+
 
 ---
 
 # Tech Stack
 
-My tech stack includes the following technologies:
+My tech stack includes the following technologies
+
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; filter: invert(100%)" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; filter: invert(100%)" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="100"/>&nbsp;
+</div>  
+
+------------------------
   
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Node-%23282C34?style=flat-square&logo=node.js" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Postgres-%23282C34?style=flat-square&logo=postgresql" height="50" width="100">
-    <img src="https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Mongoose-%23282C34?style=flat-square&logo=mongoose" height="50" width="100">
-    <img src="https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular" height="50" width="100">
-  <div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="50" width="120">
-    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript" height="50" width="120">
-    <img src="https://img.shields.io/badge/-Bootstrap-%23282C34?style=flat-square&logo=bootstrap" height="50" width="120">
-    <img src="https://img.shields.io/badge/-Sass-%23282C34?style=flat-square&logo=sass" height="50" width="100">
-  <img src="https://img.shields.io/badge/-GitHub-%23211F1F?style=flat-square&logo=github" height="50" width="100">
-    <img src="https://img.shields.io/badge/-CSS-%23563D7C?style=flat-square&logo=css3" height="50" width="100">
-<img src="https://img.shields.io/badge/-HTML-%23E44D26?style=flat-square&logo=html5" height="50" width="100">
-<div>
+ 
   
   # 🌱 I’m currently learning ...
+   
+<div align="center"> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+
   
-  <div style="display: flex; justify-content: space-between;">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff" height="50" width="130">
-<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python" height="50" width="100">
+ 
+  
   </div>
   
-  ## 📫 Reach me: 
+## 📫 Reach me: 
   
   <a href="https://www.linkedin.com/in/yeraldinne-sanabria-bb6970172/">
  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-512.png" style="filter: hue-rotate(180deg); height:50px; width:50px;">
-
-
 </a>
 
 <a href="mailto:yeraldinnedev@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail" height="50" width="120">
 </a>
+
+
+## 🔭 My Stats
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=yeraldinnesan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 
 
