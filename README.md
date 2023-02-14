@@ -1,13 +1,17 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif" width="300" height="250">
+  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="300" height="250">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="300" height="300">
 </div>
+
+----------------------
 
 <h1 align="center">Hi, I'm Yeraldinne 👋</h1>
 
 I am a full Stack Web developer with expertise in both front-end and back-end technologies. I am dedicated to constantly learning and expanding my skill set, and I am always eager to embrace new technologies and take on new challenges. My strong teamwork skills and proactive approach to professional development make me a valuable asset to any development team.
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 
+-----------------
 
 # 💫 Qualities
 
@@ -23,7 +27,7 @@ I am a full Stack Web developer with expertise in both front-end and back-end te
 
 ---
 
-# Tech Stack
+# 💎 Tech Stack
 
 My tech stack includes the following technologies
 
