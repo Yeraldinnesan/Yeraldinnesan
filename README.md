@@ -69,20 +69,36 @@ My tech stack includes the following technologies
   
   </div>
   
-## 📫 Reach me: 
+  ------------------
   
+  
+# 📫 Reach me: 
+  <div>
   <a href="https://www.linkedin.com/in/yeraldinne-sanabria-bb6970172/">
- <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-512.png" style="filter: hue-rotate(180deg); height:50px; width:50px;">
+ <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square2-512.png" style="filter: hue-rotate(180deg); height:40px; width:40px;">
 </a>
 
 <a href="mailto:yeraldinnedev@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail" height="50" width="120">
+  <img src="https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail" height="40" width="120">
 </a>
+  
+  
+  
+  
+  -------
+  
+  
+  
 
-
-## 🔭 My Stats
+# 🔭 My Stats
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=yeraldinnesan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+--------------------------
+
+
+
 
 
   
