@@ -1,9 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif" width="250" height="200">
-  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="250" height="200">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="250" height="200">
-</div>
 
 ----------------------
 
