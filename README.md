@@ -49,27 +49,12 @@ My tech stack includes the following technologies
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materialui" alt="Materialui" width="50" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" 
 </div>  
 
 ------------------------
-  
- 
-  
-  # 🌱 I’m currently learning ...
-   
-<div align="center"> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;
-
-
-  
- 
-  
-  </div>
-  
-  ------------------
-  
   
 # 📫 Reach me: 
   <div>
@@ -80,19 +65,8 @@ My tech stack includes the following technologies
 <a href="mailto:yeraldinnedev@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0077B5?style=flat-square&logo=gmail" height="40" width="120">
 </a>
-  
-  
-  
-  
-  -------
-  
-  
-  
 
-# 🔭 My Stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=yeraldinnesan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
 --------------------------
 
